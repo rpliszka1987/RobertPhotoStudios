@@ -1,0 +1,43 @@
+
+---Downloaded files---
+The import files for: Centauri Black were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://www.robertsphotostudios.com
+Data file = /home4/obertsph/public_html/wp-content/plugins/imaginem-blocks-ii/demo-import/demo-data/centauri-dark/blacksilver-centauri-black.xml
+Widget file = /home4/obertsph/public_html/wp-content/plugins/imaginem-blocks-ii/demo-import/demo-data/centauri-dark/blacksilver-centauri-black.json
+Customizer file = /home4/obertsph/public_html/wp-content/uploads/2020/05/demo-customizer-import-file_2020-05-30__01-11-27.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Imported
+
+Menu Social : 
+
+Blacksilver Social Widget - No Title - Imported
+
+Default Events Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

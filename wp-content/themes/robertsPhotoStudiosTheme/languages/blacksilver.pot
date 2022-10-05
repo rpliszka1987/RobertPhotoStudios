@@ -1,0 +1,2435 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: blacksilver\n"
+"POT-Creation-Date: 2020-04-24 02:51+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: imaginem <imagine.themes@gmail.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_n_noop;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: 404.php:19
+msgid "404 Page not Found!"
+msgstr ""
+
+#: 404.php:22
+msgid "Would you like to search for the page"
+msgstr ""
+
+#: comments.php:4 page-comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:24 includes/customize/register.php:797
+#: includes/customize/register.php:799 page-comments.php:17
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:24 includes/customize/register.php:807
+#: includes/customize/register.php:809 page-comments.php:17
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:24 page-comments.php:17
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:54 page-comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:84 includes/customize/register.php:861
+msgid "Name"
+msgstr ""
+
+#: comments.php:85
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:86 includes/customize/register.php:881 page-comments.php:55
+msgid "Website"
+msgstr ""
+
+#: comments.php:96 comments.php:111 comments.php:125 page-comments.php:64
+#: page-comments.php:78
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a message."
+msgstr ""
+
+#: comments.php:98 comments.php:113 comments.php:127 page-comments.php:66
+#: page-comments.php:80
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: comments.php:98 comments.php:113 comments.php:127 page-comments.php:66
+#: page-comments.php:80
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:107 page-comments.php:60
+msgid "Message"
+msgstr ""
+
+#: comments.php:107 page-comments.php:60
+msgid "Message..."
+msgstr ""
+
+#: comments.php:108 comments.php:109 page-comments.php:61 page-comments.php:62
+msgid "Leave a message"
+msgstr ""
+
+#: comments.php:116 page-comments.php:69
+msgid "Post Message"
+msgstr ""
+
+#: comments.php:121 includes/customize/register.php:851 page-comments.php:74
+msgid "Comment"
+msgstr ""
+
+#: comments.php:121 page-comments.php:74
+msgid "Comment..."
+msgstr ""
+
+#: comments.php:122 comments.php:123 page-comments.php:75 page-comments.php:76
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:130 includes/customize/register.php:891 page-comments.php:83
+msgid "Post Comment"
+msgstr ""
+
+#: footer.php:214 template-parts/header-navigation.php:52
+#: template-parts/header-navigation.php:53
+#: template-parts/menu/mobile-menu.php:40
+msgid "logo"
+msgstr ""
+
+#: footer.php:221
+msgid "Copyright 2019"
+msgstr ""
+
+#: functions.php:72
+msgid "Black"
+msgstr ""
+
+#: functions.php:77
+msgid "Gray"
+msgstr ""
+
+#: functions.php:82
+msgid "Light gray"
+msgstr ""
+
+#: functions.php:87
+msgid "Dark gray"
+msgstr ""
+
+#: functions.php:1530
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:1532
+msgid "Default sidebar selected for pages, blog posts and archives."
+msgstr ""
+
+#: functions.php:1541
+msgid "Menu Social"
+msgstr ""
+
+#: functions.php:1553
+msgid "Default Events Sidebar"
+msgstr ""
+
+#: functions.php:1555
+msgid "Default sidebar for events pages."
+msgstr ""
+
+#: functions.php:1565
+msgid "Default Portfolio Sidebar"
+msgstr ""
+
+#: functions.php:1567
+msgid "Default sidebar for portfolio pages."
+msgstr ""
+
+#: functions.php:1578
+msgid "Default WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:1580
+msgid "Default sidebar for woocommerce pages."
+msgstr ""
+
+#: functions.php:1608
+msgid "Mobile Social"
+msgstr ""
+
+#: functions.php:1620 includes/customize/register.php:164
+msgid "Footer"
+msgstr ""
+
+#: functions.php:1631
+msgid "Footer Column One"
+msgstr ""
+
+#: functions.php:1641
+msgid "Footer Column Two"
+msgstr ""
+
+#: functions.php:1651
+msgid "Footer Column Three"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:334
+#: includes/admin/tgm/tgm-init.php:132
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:335
+#: includes/admin/tgm/tgm-init.php:133
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:337
+#: includes/admin/tgm/tgm-init.php:135
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:339
+#: includes/admin/tgm/tgm-init.php:137
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:340
+#: includes/admin/tgm/tgm-init.php:138
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:343
+#: includes/admin/tgm/tgm-init.php:141
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:349
+#: includes/admin/tgm/tgm-init.php:147
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:355
+#: includes/admin/tgm/tgm-init.php:153
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:361
+#: includes/admin/tgm/tgm-init.php:159
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:367
+#: includes/admin/tgm/tgm-init.php:165
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:373
+#: includes/admin/tgm/tgm-init.php:171
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:378
+#: includes/admin/tgm/tgm-init.php:176
+msgid "Begin installing plugin"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:383
+#: includes/admin/tgm/tgm-init.php:181
+msgid "Begin updating plugin"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:388
+#: includes/admin/tgm/tgm-init.php:186
+msgid "Begin activating plugin"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:392
+#: includes/admin/tgm/tgm-init.php:190
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:393
+#: includes/admin/tgm/class-tgm-plugin-activation.php:912
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2618
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:394
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3244
+#: includes/admin/tgm/tgm-init.php:191
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:395
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3037
+#: includes/admin/tgm/tgm-init.php:192
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:397
+#: includes/admin/tgm/tgm-init.php:194
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:399
+#: includes/admin/tgm/tgm-init.php:196
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:401
+#: includes/admin/tgm/tgm-init.php:198
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:402
+#: includes/admin/tgm/tgm-init.php:199
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:403
+#: includes/admin/tgm/tgm-init.php:200
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:404
+#: includes/admin/tgm/tgm-init.php:201
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:1019
+#: includes/admin/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2406
+#: includes/customize/register.php:947
+msgid "Active"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3594
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3594
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/admin/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/customize/register.php:119
+msgid "Logos"
+msgstr ""
+
+#: includes/customize/register.php:120
+msgid "General"
+msgstr ""
+
+#: includes/customize/register.php:121
+msgid "Main Menu"
+msgstr ""
+
+#: includes/customize/register.php:122
+msgid "Responsive Menu"
+msgstr ""
+
+#: includes/customize/register.php:123
+msgid "Sidebar"
+msgstr ""
+
+#: includes/customize/register.php:124
+msgid "Shop"
+msgstr ""
+
+#: includes/customize/register.php:127
+msgid "Header Type"
+msgstr ""
+
+#: includes/customize/register.php:128
+msgid "Main Logo"
+msgstr ""
+
+#: includes/customize/register.php:129 includes/customize/register.php:327
+#: includes/customize/register.php:328
+msgid "Responsive Logo"
+msgstr ""
+
+#: includes/customize/register.php:130 includes/customize/register.php:338
+#: includes/customize/register.php:339
+msgid "Footer Logo"
+msgstr ""
+
+#: includes/customize/register.php:131 includes/customize/register.php:923
+msgid "Theme Style"
+msgstr ""
+
+#: includes/customize/register.php:132
+msgid "GoogleMap API"
+msgstr ""
+
+#: includes/customize/register.php:133 includes/customize/register.php:2302
+msgid "Instagram API"
+msgstr ""
+
+#: includes/customize/register.php:134
+msgid "Page General"
+msgstr ""
+
+#: includes/customize/register.php:135
+msgid "Page Colors"
+msgstr ""
+
+#: includes/customize/register.php:136
+msgid "Page Fonts"
+msgstr ""
+
+#: includes/customize/register.php:137
+msgid "Page Title"
+msgstr ""
+
+#: includes/customize/register.php:138 includes/customize/register.php:423
+msgid "Footer Font"
+msgstr ""
+
+#: includes/customize/register.php:139
+msgid "Content Headings"
+msgstr ""
+
+#: includes/customize/register.php:140 includes/customize/register.php:685
+#: template-parts/mobile-searchform.php:3 woocommerce/product-searchform.php:26
+msgid "Search"
+msgstr ""
+
+#: includes/customize/register.php:141
+msgid "Archive Titles"
+msgstr ""
+
+#: includes/customize/register.php:142
+msgid "Comment Labels"
+msgstr ""
+
+#: includes/customize/register.php:143
+msgid "Menu Typography"
+msgstr ""
+
+#: includes/customize/register.php:144
+msgid "Menu Colors"
+msgstr ""
+
+#: includes/customize/register.php:145
+msgid "Responsive Menu Typography"
+msgstr ""
+
+#: includes/customize/register.php:146
+msgid "Responsive Menu Colors"
+msgstr ""
+
+#: includes/customize/register.php:147
+msgid "Preloader"
+msgstr ""
+
+#: includes/customize/register.php:148
+msgid "Fullscreen Home"
+msgstr ""
+
+#: includes/customize/register.php:149 includes/customize/register.php:2152
+#: includes/customize/register.php:2163
+msgid "Right Click Block"
+msgstr ""
+
+#: includes/customize/register.php:150
+msgid "Elementor"
+msgstr ""
+
+#: includes/customize/register.php:151
+msgid "Fullscreen Media"
+msgstr ""
+
+#: includes/customize/register.php:152
+msgid "Fotorama Slides"
+msgstr ""
+
+#: includes/customize/register.php:153
+msgid "404"
+msgstr ""
+
+#: includes/customize/register.php:154 includes/customize/register.php:3353
+msgid "Events"
+msgstr ""
+
+#: includes/customize/register.php:155
+msgid "Portfolio"
+msgstr ""
+
+#: includes/customize/register.php:156
+msgid "Blog"
+msgstr ""
+
+#: includes/customize/register.php:157
+msgid "Proofing"
+msgstr ""
+
+#: includes/customize/register.php:158
+msgid "Shop Options"
+msgstr ""
+
+#: includes/customize/register.php:159
+msgid "Dash Cart Colors"
+msgstr ""
+
+#: includes/customize/register.php:160
+msgid "Toggle Cart"
+msgstr ""
+
+#: includes/customize/register.php:161
+msgid "Lightbox"
+msgstr ""
+
+#: includes/customize/register.php:162
+msgid "Add a Sidebar"
+msgstr ""
+
+#: includes/customize/register.php:163
+msgid "Sidebar Colors"
+msgstr ""
+
+#: includes/customize/register.php:188 includes/customize/register.php:189
+msgid "Vertical Menu Logo"
+msgstr ""
+
+#: includes/customize/register.php:201
+msgid "Vertical Logo Width"
+msgstr ""
+
+#: includes/customize/register.php:227
+msgid "Vertical Logo Top Space"
+msgstr ""
+
+#: includes/customize/register.php:253
+msgid "Vertical Logo Bottom Space"
+msgstr ""
+
+#: includes/customize/register.php:279
+msgid "Vertical Logo Left Space"
+msgstr ""
+
+#: includes/customize/register.php:304
+msgid "Primary Logo ( Dark )"
+msgstr ""
+
+#: includes/customize/register.php:305
+msgid "Primary Logo"
+msgstr ""
+
+#: includes/customize/register.php:316
+msgid "Secondary Logo ( Bright )"
+msgstr ""
+
+#: includes/customize/register.php:317
+msgid "Secondary Logo"
+msgstr ""
+
+#: includes/customize/register.php:350
+msgid "Remove Page title"
+msgstr ""
+
+#: includes/customize/register.php:361
+msgid "Page Title Font"
+msgstr ""
+
+#: includes/customize/register.php:372
+msgid "Page Title Size"
+msgstr ""
+
+#: includes/customize/register.php:373 includes/customize/register.php:435
+#: includes/customize/register.php:480 includes/customize/register.php:514
+#: includes/customize/register.php:548 includes/customize/register.php:582
+#: includes/customize/register.php:616 includes/customize/register.php:650
+#: includes/customize/register.php:1144 includes/customize/register.php:1166
+#: includes/customize/register.php:1504 includes/customize/register.php:1528
+#: includes/customize/register.php:1566 includes/customize/register.php:1616
+msgid "eg. 12px , 12em"
+msgstr ""
+
+#: includes/customize/register.php:383
+msgid "Page Title Letterpacing"
+msgstr ""
+
+#: includes/customize/register.php:384 includes/customize/register.php:446
+#: includes/customize/register.php:491 includes/customize/register.php:525
+#: includes/customize/register.php:559 includes/customize/register.php:593
+#: includes/customize/register.php:627 includes/customize/register.php:661
+#: includes/customize/register.php:1155 includes/customize/register.php:1516
+#: includes/customize/register.php:1578 includes/customize/register.php:1628
+msgid "eg. 1px , 1em"
+msgstr ""
+
+#: includes/customize/register.php:394
+msgid "Page Title Weight"
+msgstr ""
+
+#: includes/customize/register.php:395 includes/customize/register.php:457
+#: includes/customize/register.php:502 includes/customize/register.php:536
+#: includes/customize/register.php:570 includes/customize/register.php:604
+#: includes/customize/register.php:638 includes/customize/register.php:672
+#: includes/customize/register.php:1177 includes/customize/register.php:1540
+#: includes/customize/register.php:1590 includes/customize/register.php:1640
+msgid "eg. 100, 200, 300, 400, 500, 600, 700, 800, 900"
+msgstr ""
+
+#: includes/customize/register.php:405
+msgid "Page Title Color"
+msgstr ""
+
+#: includes/customize/register.php:434
+msgid "Footer Text Size"
+msgstr ""
+
+#: includes/customize/register.php:445
+msgid "Footer Text Letterpacing"
+msgstr ""
+
+#: includes/customize/register.php:456
+msgid "Footer Text Weight"
+msgstr ""
+
+#: includes/customize/register.php:468
+msgid "Disable page comments"
+msgstr ""
+
+#: includes/customize/register.php:479
+msgid "Content H1 Size"
+msgstr ""
+
+#: includes/customize/register.php:490
+msgid "Content H1 Letterpacing"
+msgstr ""
+
+#: includes/customize/register.php:501
+msgid "Content H1 Weight"
+msgstr ""
+
+#: includes/customize/register.php:513
+msgid "Content H2 Size"
+msgstr ""
+
+#: includes/customize/register.php:524
+msgid "Content H2 Letterpacing"
+msgstr ""
+
+#: includes/customize/register.php:535
+msgid "Content H2 Weight"
+msgstr ""
+
+#: includes/customize/register.php:547
+msgid "Content H3 Size"
+msgstr ""
+
+#: includes/customize/register.php:558
+msgid "Content H3 Letterpacing"
+msgstr ""
+
+#: includes/customize/register.php:569
+msgid "Content H3 Weight"
+msgstr ""
+
+#: includes/customize/register.php:581
+msgid "Content H4 Size"
+msgstr ""
+
+#: includes/customize/register.php:592
+msgid "Content H4 Letterpacing"
+msgstr ""
+
+#: includes/customize/register.php:603
+msgid "Content H4 Weight"
+msgstr ""
+
+#: includes/customize/register.php:615
+msgid "Content H5 Size"
+msgstr ""
+
+#: includes/customize/register.php:626
+msgid "Content H5 Letterpacing"
+msgstr ""
+
+#: includes/customize/register.php:637
+msgid "Content H5 Weight"
+msgstr ""
+
+#: includes/customize/register.php:649
+msgid "Content H6 Size"
+msgstr ""
+
+#: includes/customize/register.php:660
+msgid "Content H6 Letterpacing"
+msgstr ""
+
+#: includes/customize/register.php:671
+msgid "Content H6 Weight"
+msgstr ""
+
+#: includes/customize/register.php:683
+msgid "Search button tooltip text"
+msgstr ""
+
+#: includes/customize/register.php:693
+msgid "Mobile menu search"
+msgstr ""
+
+#: includes/customize/register.php:704
+msgid "Search input placeholder text"
+msgstr ""
+
+#: includes/customize/register.php:715
+msgid "Search results title prefix"
+msgstr ""
+
+#: includes/customize/register.php:717
+msgid "Search Results for:"
+msgstr ""
+
+#: includes/customize/register.php:725
+msgid "Tag archive title"
+msgstr ""
+
+#: includes/customize/register.php:727
+msgid "Tag:"
+msgstr ""
+
+#: includes/customize/register.php:735
+msgid "Category title prefix"
+msgstr ""
+
+#: includes/customize/register.php:737
+msgid "Category:"
+msgstr ""
+
+#: includes/customize/register.php:745
+msgid "Author title prefix"
+msgstr ""
+
+#: includes/customize/register.php:747
+msgid "Author:"
+msgstr ""
+
+#: includes/customize/register.php:755
+msgid "Yearly title prefix"
+msgstr ""
+
+#: includes/customize/register.php:757
+msgid "Yearly:"
+msgstr ""
+
+#: includes/customize/register.php:765
+msgid "Monthly title prefix"
+msgstr ""
+
+#: includes/customize/register.php:767
+msgid "Monthly:"
+msgstr ""
+
+#: includes/customize/register.php:775
+msgid "Daily title prefix"
+msgstr ""
+
+#: includes/customize/register.php:777
+msgid "Daily:"
+msgstr ""
+
+#: includes/customize/register.php:786
+msgid "Over-ride comment fields"
+msgstr ""
+
+#: includes/customize/register.php:817 includes/customize/register.php:820
+msgid "Comments"
+msgstr ""
+
+#: includes/customize/register.php:818
+msgid "Comment number will display before text"
+msgstr ""
+
+#: includes/customize/register.php:828 includes/customize/register.php:830
+msgid "Comments are closed"
+msgstr ""
+
+#: includes/customize/register.php:839 includes/customize/register.php:841
+msgid "Leave a Comment"
+msgstr ""
+
+#: includes/customize/register.php:849
+msgid "Comment field"
+msgstr ""
+
+#: includes/customize/register.php:859
+msgid "Name field"
+msgstr ""
+
+#: includes/customize/register.php:869
+msgid "Email field"
+msgstr ""
+
+#: includes/customize/register.php:871
+msgid "Email"
+msgstr ""
+
+#: includes/customize/register.php:879
+msgid "Website field"
+msgstr ""
+
+#: includes/customize/register.php:889
+msgid "Comment Submit Button"
+msgstr ""
+
+#: includes/customize/register.php:901
+msgid "Enable Animated Cursor"
+msgstr ""
+
+#: includes/customize/register.php:912
+msgid "Goto Top Indicator"
+msgstr ""
+
+#: includes/customize/register.php:929 includes/customize/register.php:2448
+#: includes/customize/register.php:2935 includes/customize/register.php:3233
+#: includes/customize/register.php:3341 includes/customize/register.php:3771
+msgid "Default"
+msgstr ""
+
+#: includes/customize/register.php:930
+msgid "Compact"
+msgstr ""
+
+#: includes/customize/register.php:931
+msgid "Display"
+msgstr ""
+
+#: includes/customize/register.php:941
+msgid "Load default font"
+msgstr ""
+
+#: includes/customize/register.php:948 includes/customize/register.php:4212
+msgid "Disable"
+msgstr ""
+
+#: includes/customize/register.php:957
+msgid "Theme Mode"
+msgstr ""
+
+#: includes/customize/register.php:963
+msgid "Default ( Bright )"
+msgstr ""
+
+#: includes/customize/register.php:964
+msgid "Dark"
+msgstr ""
+
+#: includes/customize/register.php:974
+msgid "Accent Color"
+msgstr ""
+
+#: includes/customize/register.php:997
+msgid "Page Contents"
+msgstr ""
+
+#: includes/customize/register.php:1019
+msgid "Page Background"
+msgstr ""
+
+#: includes/customize/register.php:1038
+msgid "Page Titles"
+msgstr ""
+
+#: includes/customize/register.php:1057
+msgid "Content link color"
+msgstr ""
+
+#: includes/customize/register.php:1076
+msgid "Content link hover color"
+msgstr ""
+
+#: includes/customize/register.php:1094
+msgid "General page font"
+msgstr ""
+
+#: includes/customize/register.php:1095 includes/customize/register.php:1107
+#: includes/customize/register.php:1119
+msgid "Default: sans-serif"
+msgstr ""
+
+#: includes/customize/register.php:1106
+msgid "Page Headings Font"
+msgstr ""
+
+#: includes/customize/register.php:1118
+msgid "Contents Font"
+msgstr ""
+
+#: includes/customize/register.php:1132 includes/customize/register.php:1491
+msgid "Menu Font"
+msgstr ""
+
+#: includes/customize/register.php:1143 includes/customize/register.php:1503
+msgid "Menu Text Size"
+msgstr ""
+
+#: includes/customize/register.php:1154 includes/customize/register.php:1515
+msgid "Menu Text Letterpacing"
+msgstr ""
+
+#: includes/customize/register.php:1165 includes/customize/register.php:1527
+msgid "Sub Menu Text Size"
+msgstr ""
+
+#: includes/customize/register.php:1176 includes/customize/register.php:1539
+msgid "Menu Text Weight"
+msgstr ""
+
+#: includes/customize/register.php:1188
+msgid "Menu Gradient Color 1"
+msgstr ""
+
+#: includes/customize/register.php:1199
+msgid "Menu Gradient Color 2"
+msgstr ""
+
+#: includes/customize/register.php:1211
+msgid "Menu Bar Color"
+msgstr ""
+
+#: includes/customize/register.php:1229
+msgid "Menu Toggle Color"
+msgstr ""
+
+#: includes/customize/register.php:1250
+msgid "Menu Item Color"
+msgstr ""
+
+#: includes/customize/register.php:1271
+msgid "Social Icons Color"
+msgstr ""
+
+#: includes/customize/register.php:1288
+msgid "Menu Item Hover Color"
+msgstr ""
+
+#: includes/customize/register.php:1309
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: includes/customize/register.php:1327
+msgid "Menu Hyphen"
+msgstr ""
+
+#: includes/customize/register.php:1344
+msgid "Menu Arrow"
+msgstr ""
+
+#: includes/customize/register.php:1361
+msgid "Opened Menu Items"
+msgstr ""
+
+#: includes/customize/register.php:1378
+msgid "Opened Submenu Menu Items"
+msgstr ""
+
+#: includes/customize/register.php:1395
+msgid "Responsive Search Input"
+msgstr ""
+
+#: includes/customize/register.php:1415
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: includes/customize/register.php:1427
+msgid "Enable WPML language selector"
+msgstr ""
+
+#: includes/customize/register.php:1439
+msgid "WPML language style"
+msgstr ""
+
+#: includes/customize/register.php:1445
+msgid "Flags"
+msgstr ""
+
+#: includes/customize/register.php:1446
+msgid "Language"
+msgstr ""
+
+#: includes/customize/register.php:1447
+msgid "Flag + Language"
+msgstr ""
+
+#: includes/customize/register.php:1457
+msgid "Menu Style"
+msgstr ""
+
+#: includes/customize/register.php:1463
+msgid "Left Logo"
+msgstr ""
+
+#: includes/customize/register.php:1464
+msgid "Left Boxed"
+msgstr ""
+
+#: includes/customize/register.php:1465
+msgid "Centered Logo"
+msgstr ""
+
+#: includes/customize/register.php:1466
+msgid "Split Menu"
+msgstr ""
+
+#: includes/customize/register.php:1467
+msgid "Toggle Menu"
+msgstr ""
+
+#: includes/customize/register.php:1468
+msgid "Vertical Menu"
+msgstr ""
+
+#: includes/customize/register.php:1477
+msgid "Add Parent menu submenu indicators"
+msgstr ""
+
+#: includes/customize/register.php:1553
+msgid "Vertical Menu Font"
+msgstr ""
+
+#: includes/customize/register.php:1565
+msgid "Vertical Menu Text Size"
+msgstr ""
+
+#: includes/customize/register.php:1577
+msgid "Vertical Menu Text Letterpacing"
+msgstr ""
+
+#: includes/customize/register.php:1589
+msgid "Vertical Menu Text Weight"
+msgstr ""
+
+#: includes/customize/register.php:1603
+msgid "Vertical Footer Font"
+msgstr ""
+
+#: includes/customize/register.php:1615
+msgid "Vertical Footer Text Size"
+msgstr ""
+
+#: includes/customize/register.php:1627
+msgid "Vertical Footer Text Letterpacing"
+msgstr ""
+
+#: includes/customize/register.php:1639
+msgid "Vertical Footer Text Weight"
+msgstr ""
+
+#: includes/customize/register.php:1655
+msgid "Vertical Menu Color"
+msgstr ""
+
+#: includes/customize/register.php:1678
+msgid "Vertical Hovered Menu Color"
+msgstr ""
+
+#: includes/customize/register.php:1698
+msgid "Vertical Opened Menu Color"
+msgstr ""
+
+#: includes/customize/register.php:1717
+msgid "Vertical Footer Text Color"
+msgstr ""
+
+#: includes/customize/register.php:1735
+msgid "Vertical Footer Social icons Color"
+msgstr ""
+
+#: includes/customize/register.php:1753
+msgid "Vertical Footer Hover Social icons Color"
+msgstr ""
+
+#: includes/customize/register.php:1772
+msgid "Vertical Menu Background"
+msgstr ""
+
+#: includes/customize/register.php:1799
+msgid "Menu Color"
+msgstr ""
+
+#: includes/customize/register.php:1818
+msgid "Menu Background Color"
+msgstr ""
+
+#: includes/customize/register.php:1837
+msgid "Menu Border Color"
+msgstr ""
+
+#: includes/customize/register.php:1856
+msgid "Overlay Menu Color"
+msgstr ""
+
+#: includes/customize/register.php:1875
+msgid "Inverse Menu Color"
+msgstr ""
+
+#: includes/customize/register.php:1894
+msgid "Menu Background Inverse Color"
+msgstr ""
+
+#: includes/customize/register.php:1913
+msgid "Menu Border Inverse Color"
+msgstr ""
+
+#: includes/customize/register.php:1932
+msgid "Submenu Background"
+msgstr ""
+
+#: includes/customize/register.php:1954
+msgid "Mega Menu Headings"
+msgstr ""
+
+#: includes/customize/register.php:1972
+msgid "Submenu Items"
+msgstr ""
+
+#: includes/customize/register.php:1990
+msgid "Submenu Items Hover"
+msgstr ""
+
+#: includes/customize/register.php:2008
+msgid "Social icons color"
+msgstr ""
+
+#: includes/customize/register.php:2030
+msgid "Fullsreeen Social icons color"
+msgstr ""
+
+#: includes/customize/register.php:2052
+msgid "Inverse Menu Social icons color"
+msgstr ""
+
+#: includes/customize/register.php:2075
+msgid "OnePage Menu Underline Color"
+msgstr ""
+
+#: includes/customize/register.php:2094
+msgid "Color for toggle as Main Menu"
+msgstr ""
+
+#: includes/customize/register.php:2113
+msgid "Sticky Menu color"
+msgstr ""
+
+#: includes/customize/register.php:2132
+msgid "Sticky Menu Background color"
+msgstr ""
+
+#: includes/customize/register.php:2164
+msgid "This text appears in the popup when right click is disabled."
+msgstr ""
+
+#: includes/customize/register.php:2166
+msgid ""
+"You can enable/disable right clicking from Theme Options and customize this "
+"message too."
+msgstr ""
+
+#: includes/customize/register.php:2177
+msgid "Typography Control Label"
+msgstr ""
+
+#: includes/customize/register.php:2225
+msgid "Right Click Background"
+msgstr ""
+
+#: includes/customize/register.php:2250
+msgid "Elementor Style"
+msgstr ""
+
+#: includes/customize/register.php:2251
+msgid ""
+"Disable Elementor Default font and style to Theme Defaults. The choice is "
+"found in wp-admin > Elementor > Settings > General Tab"
+msgstr ""
+
+#: includes/customize/register.php:2257
+msgid "Theme Defaults"
+msgstr ""
+
+#: includes/customize/register.php:2258
+msgid "Keep as is"
+msgstr ""
+
+#: includes/customize/register.php:2268
+msgid "Themebuilder Footer"
+msgstr ""
+
+#: includes/customize/register.php:2274
+msgid "Replace with Elementor footer"
+msgstr ""
+
+#: includes/customize/register.php:2275
+msgid "Display with theme footer"
+msgstr ""
+
+#: includes/customize/register.php:2285
+msgid "Google Map API"
+msgstr ""
+
+#: includes/customize/register.php:2314
+msgid "Enable Instagram Footer"
+msgstr ""
+
+#: includes/customize/register.php:2324
+msgid "Instagram Location"
+msgstr ""
+
+#: includes/customize/register.php:2330
+msgid "Above Widgets"
+msgstr ""
+
+#: includes/customize/register.php:2331
+msgid "Below Widgets"
+msgstr ""
+
+#: includes/customize/register.php:2342
+msgid "Display Instagram in Vertical Menu"
+msgstr ""
+
+#: includes/customize/register.php:2348
+msgid "Display in Page Footer"
+msgstr ""
+
+#: includes/customize/register.php:2349
+msgid "Display in Vertical Menu"
+msgstr ""
+
+#: includes/customize/register.php:2358
+msgid "Displays in Page Footer."
+msgstr ""
+
+#: includes/customize/register.php:2359
+msgid "Instagram username"
+msgstr ""
+
+#: includes/customize/register.php:2370
+msgid "Instagram Image Limit"
+msgstr ""
+
+#: includes/customize/register.php:2386
+msgid "Instagram Row"
+msgstr ""
+
+#: includes/customize/register.php:2402
+msgid "Instagram Columns"
+msgstr ""
+
+#: includes/customize/register.php:2418
+msgid "Instagram Container Width"
+msgstr ""
+
+#: includes/customize/register.php:2419
+msgid "Please reload or resize the browser window to see new grid size"
+msgstr ""
+
+#: includes/customize/register.php:2442
+msgid "Instagram Grid Space"
+msgstr ""
+
+#: includes/customize/register.php:2449
+msgid "No Gap"
+msgstr ""
+
+#: includes/customize/register.php:2458
+msgid "Instagram Transition"
+msgstr ""
+
+#: includes/customize/register.php:2464
+msgid "Disable Slideshow"
+msgstr ""
+
+#: includes/customize/register.php:2465
+msgid "Random"
+msgstr ""
+
+#: includes/customize/register.php:2492 includes/customize/register.php:2808
+msgid "Logo Height"
+msgstr ""
+
+#: includes/customize/register.php:2518 includes/customize/register.php:2832
+#: includes/customize/register.php:2881
+msgid "Logo Top Space"
+msgstr ""
+
+#: includes/customize/register.php:2544
+msgid "Split Menu Logo Top Space"
+msgstr ""
+
+#: includes/customize/register.php:2570
+msgid "Split Menu Center Offset"
+msgstr ""
+
+#: includes/customize/register.php:2596
+msgid "Centered Logo Top Space"
+msgstr ""
+
+#: includes/customize/register.php:2622
+msgid "Centered Logo Left Space"
+msgstr ""
+
+#: includes/customize/register.php:2648
+msgid "Centered Logo Bottom Space"
+msgstr ""
+
+#: includes/customize/register.php:2674
+msgid "Compact-Top Logo Top Space"
+msgstr ""
+
+#: includes/customize/register.php:2700
+msgid "Compact-Left Logo Top Space"
+msgstr ""
+
+#: includes/customize/register.php:2728
+msgid "Logo Left Space"
+msgstr ""
+
+#: includes/customize/register.php:2758
+msgid "Sticky Menu Logo Top Space"
+msgstr ""
+
+#: includes/customize/register.php:2783
+msgid "Sticky Menu Logo Height"
+msgstr ""
+
+#: includes/customize/register.php:2857
+msgid "Logo Width"
+msgstr ""
+
+#: includes/customize/register.php:2905
+msgid "Logo Bottom Space"
+msgstr ""
+
+#: includes/customize/register.php:2929
+msgid "Preloader Style"
+msgstr ""
+
+#: includes/customize/register.php:2936
+msgid "Spinner"
+msgstr ""
+
+#: includes/customize/register.php:2946
+msgid "Preloader Color"
+msgstr ""
+
+#: includes/customize/register.php:2969
+msgid "Preloader Background"
+msgstr ""
+
+#: includes/customize/register.php:2994
+msgid "Loop Audio"
+msgstr ""
+
+#: includes/customize/register.php:3005
+msgid "On Start Volume"
+msgstr ""
+
+#: includes/customize/register.php:3021
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/customize/register.php:3032
+msgid "Slideshow Play button"
+msgstr ""
+
+#: includes/customize/register.php:3043
+msgid "Slideshow Navigation Arrows"
+msgstr ""
+
+#: includes/customize/register.php:3054
+msgid "Slideshow Controls"
+msgstr ""
+
+#: includes/customize/register.php:3065
+msgid "Slideshow Autoplay"
+msgstr ""
+
+#: includes/customize/register.php:3076
+msgid "Slideshow Pause on Last Slide"
+msgstr ""
+
+#: includes/customize/register.php:3087
+msgid "Slideshow Pause on Hover"
+msgstr ""
+
+#: includes/customize/register.php:3098
+msgid "Vertical Center Images"
+msgstr ""
+
+#: includes/customize/register.php:3109
+msgid "Horizontal Center Images"
+msgstr ""
+
+#: includes/customize/register.php:3120
+msgid "Length between transitions"
+msgstr ""
+
+#: includes/customize/register.php:3136
+msgid "Speed of transition"
+msgstr ""
+
+#: includes/customize/register.php:3153
+msgid "Fullscreen Permalink slug"
+msgstr ""
+
+#: includes/customize/register.php:3154 includes/customize/register.php:3421
+#: includes/customize/register.php:3663
+msgid ""
+"Requires a unique slug name. After changing the slug name please make sure "
+"to flush the old cache by visiting wp-admin > Settings > Permalinks . "
+"Visiting the wp-admin page will auto renew permalinks. Otherwise it can give "
+"a 404 page not found error."
+msgstr ""
+
+#: includes/customize/register.php:3166
+msgid "Fotorama Autoplay"
+msgstr ""
+
+#: includes/customize/register.php:3178
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/customize/register.php:3197
+msgid "Enable Fullscreen Home"
+msgstr ""
+
+#: includes/customize/register.php:3211
+msgid "Slideshow for Homepage"
+msgstr ""
+
+#: includes/customize/register.php:3212
+msgid "Choose slideshow for homepage"
+msgstr ""
+
+#: includes/customize/register.php:3227
+msgid "404 Header Type"
+msgstr ""
+
+#: includes/customize/register.php:3234
+msgid "Overlay"
+msgstr ""
+
+#: includes/customize/register.php:3242
+msgid "404 Background"
+msgstr ""
+
+#: includes/customize/register.php:3265
+msgid "404 Text Color"
+msgstr ""
+
+#: includes/customize/register.php:3295
+msgid "404 Title"
+msgstr ""
+
+#: includes/customize/register.php:3296
+msgid "404 Page not found title"
+msgstr ""
+
+#: includes/customize/register.php:3307 includes/customize/register.php:3308
+msgid "404 Search Text"
+msgstr ""
+
+#: includes/customize/register.php:3320
+msgid "Events Time format"
+msgstr ""
+
+#: includes/customize/register.php:3326
+msgid "AM/PM"
+msgstr ""
+
+#: includes/customize/register.php:3327
+msgid "24 Hrs"
+msgstr ""
+
+#: includes/customize/register.php:3335
+msgid "Events Address format"
+msgstr ""
+
+#: includes/customize/register.php:3342
+msgid "Street, State, Zip, Venue"
+msgstr ""
+
+#: includes/customize/register.php:3343
+msgid "Zip, Venue, Street, State"
+msgstr ""
+
+#: includes/customize/register.php:3351
+msgid "Archive Event gallery title"
+msgstr ""
+
+#: includes/customize/register.php:3361
+msgid "Custom Events Archive Page"
+msgstr ""
+
+#: includes/customize/register.php:3371
+msgid "Events Archive Navigation"
+msgstr ""
+
+#: includes/customize/register.php:3382
+msgid "Events Archive Grid Column"
+msgstr ""
+
+#: includes/customize/register.php:3397
+msgid "Events Readmore"
+msgstr ""
+
+#: includes/customize/register.php:3399
+msgid "Continue Reading"
+msgstr ""
+
+#: includes/customize/register.php:3408
+msgid "Event Comments"
+msgstr ""
+
+#: includes/customize/register.php:3420
+msgid "Event Permalink slug"
+msgstr ""
+
+#: includes/customize/register.php:3432
+msgid "Postponed Event Text"
+msgstr ""
+
+#: includes/customize/register.php:3443
+msgid "Cancelled Event Text"
+msgstr ""
+
+#: includes/customize/register.php:3454
+msgid "Text to notify that event is full"
+msgstr ""
+
+#: includes/customize/register.php:3465
+msgid "Past Event Text"
+msgstr ""
+
+#: includes/customize/register.php:3478 includes/customize/register.php:3496
+msgid "Proofing archive format"
+msgstr ""
+
+#: includes/customize/register.php:3479
+msgid "Image format for Proofing archives"
+msgstr ""
+
+#: includes/customize/register.php:3485 includes/customize/register.php:3622
+msgid "Landscape"
+msgstr ""
+
+#: includes/customize/register.php:3486 includes/customize/register.php:3623
+msgid "Portrait"
+msgstr ""
+
+#: includes/customize/register.php:3487 includes/customize/register.php:3624
+msgid "Square"
+msgstr ""
+
+#: includes/customize/register.php:3488 includes/customize/register.php:3625
+msgid "Masonry"
+msgstr ""
+
+#: includes/customize/register.php:3497
+msgid "Proofing archive listing columns"
+msgstr ""
+
+#: includes/customize/register.php:3503 includes/customize/register.php:3640
+msgid "Four"
+msgstr ""
+
+#: includes/customize/register.php:3504 includes/customize/register.php:3641
+msgid "Three"
+msgstr ""
+
+#: includes/customize/register.php:3505 includes/customize/register.php:3642
+msgid "Two"
+msgstr ""
+
+#: includes/customize/register.php:3506 includes/customize/register.php:3643
+msgid "One"
+msgstr ""
+
+#: includes/customize/register.php:3514
+msgid "Proofing Archive Title"
+msgstr ""
+
+#: includes/customize/register.php:3515
+msgid "This is the Title for Proofing archive"
+msgstr ""
+
+#: includes/customize/register.php:3525
+msgid "Proofing All items Text"
+msgstr ""
+
+#: includes/customize/register.php:3526 includes/customize/register.php:3674
+msgid "Displayed as first item in filterable"
+msgstr ""
+
+#: includes/customize/register.php:3536
+msgid "Proofing Selected items Text"
+msgstr ""
+
+#: includes/customize/register.php:3537
+msgid "Displayed as selected in filterable"
+msgstr ""
+
+#: includes/customize/register.php:3547
+msgid "Proofing Rejected items Text"
+msgstr ""
+
+#: includes/customize/register.php:3548
+msgid "Displayed as rejected in filterable"
+msgstr ""
+
+#: includes/customize/register.php:3558
+msgid "Proofing Editors choice Text"
+msgstr ""
+
+#: includes/customize/register.php:3559
+msgid "Displayed as editors choice in filterable"
+msgstr ""
+
+#: includes/customize/register.php:3569
+msgid "Proofing Count Selected Text"
+msgstr ""
+
+#: includes/customize/register.php:3570
+msgid "Displayed as selected count in filterable"
+msgstr ""
+
+#: includes/customize/register.php:3583
+msgid "Portfolio Comments"
+msgstr ""
+
+#: includes/customize/register.php:3594
+msgid "Custom Portfolio Archive Page"
+msgstr ""
+
+#: includes/customize/register.php:3604
+msgid "Portfolio Archive Navigation"
+msgstr ""
+
+#: includes/customize/register.php:3615 includes/customize/register.php:3633
+msgid "Portfolio archive format"
+msgstr ""
+
+#: includes/customize/register.php:3616
+msgid "Image format for Portfolio archives"
+msgstr ""
+
+#: includes/customize/register.php:3634
+msgid "Portfolio archive listing columns"
+msgstr ""
+
+#: includes/customize/register.php:3651
+msgid "Portfolio Archive Title"
+msgstr ""
+
+#: includes/customize/register.php:3652
+msgid "This is also Label and Title for Portfolio archive"
+msgstr ""
+
+#: includes/customize/register.php:3662
+msgid "Portfolio Permalink slug"
+msgstr ""
+
+#: includes/customize/register.php:3673
+msgid "Portfolio All items Text"
+msgstr ""
+
+#: includes/customize/register.php:3684
+msgid "Fullscreen Portfolio Button"
+msgstr ""
+
+#: includes/customize/register.php:3685
+msgid "Displayed in Fullscreen portfolio slideshow"
+msgstr ""
+
+#: includes/customize/register.php:3695
+msgid "Display Recent Portfolios"
+msgstr ""
+
+#: includes/customize/register.php:3696
+msgid "Displays Carousel of Portfolios in details pages"
+msgstr ""
+
+#: includes/customize/register.php:3707
+msgid "Portfolio Carousel Direct Link"
+msgstr ""
+
+#: includes/customize/register.php:3718
+msgid "Recent Portfolio Heading"
+msgstr ""
+
+#: includes/customize/register.php:3719
+msgid "Recent portfolio title"
+msgstr ""
+
+#: includes/customize/register.php:3731
+msgid "Enable lightbox for standard post details featured image."
+msgstr ""
+
+#: includes/customize/register.php:3732
+msgid "Applies to blog posts that do not use Elementor pagebuilder."
+msgstr ""
+
+#: includes/customize/register.php:3743
+msgid "Display full contents in archive"
+msgstr ""
+
+#: includes/customize/register.php:3754
+msgid "Display Comment are Closed Notice"
+msgstr ""
+
+#: includes/customize/register.php:3765
+msgid "Blog category listing style"
+msgstr ""
+
+#: includes/customize/register.php:3772
+msgid "Grid"
+msgstr ""
+
+#: includes/customize/register.php:3780
+msgid "Blog category grid columns"
+msgstr ""
+
+#: includes/customize/register.php:3795
+msgid "Display author bio"
+msgstr ""
+
+#: includes/customize/register.php:3806
+msgid "Readmore text"
+msgstr ""
+
+#: includes/customize/register.php:3816
+msgid "Post navigation Prev text"
+msgstr ""
+
+#: includes/customize/register.php:3826
+msgid "Post navigation Next text"
+msgstr ""
+
+#: includes/customize/register.php:3838 includes/customize/register.php:3839
+msgid "Enable header cart"
+msgstr ""
+
+#: includes/customize/register.php:3850 includes/customize/register.php:3851
+msgid "Hide empty cart"
+msgstr ""
+
+#: includes/customize/register.php:3862
+msgid "Shop page layout"
+msgstr ""
+
+#: includes/customize/register.php:3868 includes/customize/register.php:3884
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/customize/register.php:3869 includes/customize/register.php:3885
+msgid "Sidebar Right"
+msgstr ""
+
+#: includes/customize/register.php:3870 includes/customize/register.php:3886
+msgid "Sidebar Left"
+msgstr ""
+
+#: includes/customize/register.php:3878
+msgid "Shop archive layout"
+msgstr ""
+
+#: includes/customize/register.php:3894
+msgid "Toggle sidebar your cart text"
+msgstr ""
+
+#: includes/customize/register.php:3904
+msgid "Toggle sidebar empty cart text"
+msgstr ""
+
+#: includes/customize/register.php:3914
+msgid "Toggle sidebar view cart text"
+msgstr ""
+
+#: includes/customize/register.php:3924
+msgid "Toggle cidebar checkout text"
+msgstr ""
+
+#: includes/customize/register.php:3936
+msgid "Header qty indicator background"
+msgstr ""
+
+#: includes/customize/register.php:3953
+msgid "Header qty indicator text"
+msgstr ""
+
+#: includes/customize/register.php:3970
+msgid "Dash cart close icon"
+msgstr ""
+
+#: includes/customize/register.php:3987
+msgid "Dash cart background"
+msgstr ""
+
+#: includes/customize/register.php:4004
+msgid "Dash cart title"
+msgstr ""
+
+#: includes/customize/register.php:4021
+msgid "Dash cart item title"
+msgstr ""
+
+#: includes/customize/register.php:4038
+msgid "Dash cart item qty"
+msgstr ""
+
+#: includes/customize/register.php:4055
+msgid "Dash cart buttons"
+msgstr ""
+
+#: includes/customize/register.php:4076
+msgid "Dash cart buttons hover"
+msgstr ""
+
+#: includes/customize/register.php:4097
+msgid "Dash cart buttons hover text"
+msgstr ""
+
+#: includes/customize/register.php:4117
+msgid "Enable Lightbox for Gutenberg"
+msgstr ""
+
+#: includes/customize/register.php:4118
+msgid ""
+"Adds Lightbox for Media File linked images and galleries in Gutenberg editor"
+msgstr ""
+
+#: includes/customize/register.php:4129
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/customize/register.php:4140
+msgid "Sizing"
+msgstr ""
+
+#: includes/customize/register.php:4151
+#: includes/functions/theme-functions.php:810
+msgid "Download"
+msgstr ""
+
+#: includes/customize/register.php:4162
+msgid "Zoom"
+msgstr ""
+
+#: includes/customize/register.php:4173
+msgid "Autoplay"
+msgstr ""
+
+#: includes/customize/register.php:4184
+msgid "Count"
+msgstr ""
+
+#: includes/customize/register.php:4195
+msgid "Title"
+msgstr ""
+
+#: includes/customize/register.php:4206
+msgid "Lightbox Thumbnails"
+msgstr ""
+
+#: includes/customize/register.php:4213
+msgid "Enable"
+msgstr ""
+
+#: includes/customize/register.php:4221
+msgid "Lightbox Transition"
+msgstr ""
+
+#: includes/customize/register.php:4227
+msgid "Slide"
+msgstr ""
+
+#: includes/customize/register.php:4228
+msgid "Fade"
+msgstr ""
+
+#: includes/customize/register.php:4229
+msgid "Zoom in"
+msgstr ""
+
+#: includes/customize/register.php:4230
+msgid "Zoom in Big"
+msgstr ""
+
+#: includes/customize/register.php:4231
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/customize/register.php:4232
+msgid "Zoom Out big"
+msgstr ""
+
+#: includes/customize/register.php:4233
+msgid "Zoom Out in"
+msgstr ""
+
+#: includes/customize/register.php:4234
+msgid "Zoom in Out"
+msgstr ""
+
+#: includes/customize/register.php:4235
+msgid "Soft Zoom"
+msgstr ""
+
+#: includes/customize/register.php:4236
+msgid "Scale Up"
+msgstr ""
+
+#: includes/customize/register.php:4237
+msgid "Slide Circular"
+msgstr ""
+
+#: includes/customize/register.php:4238
+msgid "Slide Circular vertical"
+msgstr ""
+
+#: includes/customize/register.php:4239
+msgid "Slide Vertical"
+msgstr ""
+
+#: includes/customize/register.php:4240
+msgid "Slide Vertical growth"
+msgstr ""
+
+#: includes/customize/register.php:4241
+msgid "Slide Skew only"
+msgstr ""
+
+#: includes/customize/register.php:4242
+msgid "Slide Skew only reverse"
+msgstr ""
+
+#: includes/customize/register.php:4243
+msgid "Slide Skew only y"
+msgstr ""
+
+#: includes/customize/register.php:4244
+msgid "Slide Skew only y reverse"
+msgstr ""
+
+#: includes/customize/register.php:4245
+msgid "Slide Skew"
+msgstr ""
+
+#: includes/customize/register.php:4246
+msgid "Slide Skew reverse"
+msgstr ""
+
+#: includes/customize/register.php:4247
+msgid "Slide Skew cross"
+msgstr ""
+
+#: includes/customize/register.php:4248
+msgid "Slide Skew cross reverse"
+msgstr ""
+
+#: includes/customize/register.php:4249
+msgid "Slide Skew vertically"
+msgstr ""
+
+#: includes/customize/register.php:4250
+msgid "Slide Skew vertically reverse"
+msgstr ""
+
+#: includes/customize/register.php:4251
+msgid "Slide Skew vertically cross"
+msgstr ""
+
+#: includes/customize/register.php:4252
+msgid "Slide Skew vertically cross reverse"
+msgstr ""
+
+#: includes/customize/register.php:4253
+msgid "Lollipop"
+msgstr ""
+
+#: includes/customize/register.php:4254
+msgid "Lollipop reverse"
+msgstr ""
+
+#: includes/customize/register.php:4255
+msgid "Rotate"
+msgstr ""
+
+#: includes/customize/register.php:4256
+msgid "Rotate reverse"
+msgstr ""
+
+#: includes/customize/register.php:4257
+msgid "Tube"
+msgstr ""
+
+#: includes/customize/register.php:4265
+msgid "Purchase link text"
+msgstr ""
+
+#: includes/customize/register.php:4275
+msgid "Lightbox background color"
+msgstr ""
+
+#: includes/customize/register.php:4292
+msgid "Lightbox element colors"
+msgstr ""
+
+#: includes/customize/register.php:4309
+msgid "Lightbox Title"
+msgstr ""
+
+#: includes/customize/register.php:4326
+msgid "Lightbox Description"
+msgstr ""
+
+#: includes/customize/register.php:4343
+msgid "Lightbox Purchase Link"
+msgstr ""
+
+#: includes/customize/register.php:4364
+msgid "Lightbox Purchase Link Hover"
+msgstr ""
+
+#: includes/customize/register.php:4389
+msgid "Sidebar Name "
+msgstr ""
+
+#: includes/customize/register.php:4390
+msgid "Activate extra sidebar widget. Enter name"
+msgstr ""
+
+#: includes/customize/register.php:4401
+msgid "Sidebar Headings"
+msgstr ""
+
+#: includes/customize/register.php:4418
+msgid "Sidebar Links"
+msgstr ""
+
+#: includes/customize/register.php:4435
+msgid "Sidebar Text"
+msgstr ""
+
+#: includes/customize/register.php:4453
+msgid "Page Footer"
+msgstr ""
+
+#: includes/customize/register.php:4464
+msgid "Footer Text"
+msgstr ""
+
+#: includes/customize/register.php:4465 includes/customize/register.php:4531
+msgid "Use [theme_display_current_year] to display current year"
+msgstr ""
+
+#: includes/customize/register.php:4478
+msgid "Footer Padding Top"
+msgstr ""
+
+#: includes/customize/register.php:4504
+msgid "Footer Padding Bottom"
+msgstr ""
+
+#: includes/customize/register.php:4530
+msgid "Vertical Menu Footer Text"
+msgstr ""
+
+#: includes/customize/register.php:4542
+msgid "Footer Background"
+msgstr ""
+
+#: includes/customize/register.php:4559
+msgid "Footer text"
+msgstr ""
+
+#: includes/customize/register.php:4584
+msgid "Footer Headings"
+msgstr ""
+
+#: includes/customize/register.php:4601
+msgid "Footer links"
+msgstr ""
+
+#: includes/customize/register.php:4618
+msgid "Footer link hover"
+msgstr ""
+
+#: includes/functions/theme-functions.php:794
+msgid "Proofing gallery selection has been locked."
+msgstr ""
+
+#: includes/functions/theme-functions.php:795
+msgid "Proofing gallery is active for selection."
+msgstr ""
+
+#: includes/functions/theme-functions.php:797
+msgid "Please contact us to activate this proofing gallery."
+msgstr ""
+
+#: includes/functions/theme-functions.php:798
+msgid "Proofing gallery Locked for Download."
+msgstr ""
+
+#: includes/functions/theme-functions.php:1105
+msgid "client"
+msgstr ""
+
+#: includes/functions/theme-functions.php:2751
+msgid "Customizer Set Slideshow Images"
+msgstr ""
+
+#: includes/functions/theme-functions.php:2752
+msgid "Slideshow using Image Attachments"
+msgstr ""
+
+#: includes/functions/theme-functions.php:2753
+msgid "none"
+msgstr ""
+
+#: loop-page.php:15 template-blank.php:23
+#: template-parts/postformats/post-contents.php:81
+msgid "Pages:"
+msgstr ""
+
+#: page-comments.php:53
+msgid "Name (required)"
+msgstr ""
+
+#: page-comments.php:54
+msgid "Email Address (required)"
+msgstr ""
+
+#: search.php:22
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:23
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with "
+"different keywords."
+msgstr ""
+
+#: single-clients.php:46
+msgid "Proofing Galleries"
+msgstr ""
+
+#: single-fullscreen.php:72
+msgid "Fullscreen type not found."
+msgstr ""
+
+#: template-parts/author-bio.php:3
+msgid "Published by"
+msgstr ""
+
+#: template-parts/author-bio.php:21
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: template-parts/fullscreen/fullscreen-coverphoto.php:19
+#: template-parts/fullscreen/fullscreen-kenburns.php:19
+#: template-parts/fullscreen/fullscreen-particles.php:19
+#: template-parts/fullscreen/fullscreen-supersized.php:19
+msgid "No images present to display slideshow."
+msgstr ""
+
+#: template-parts/home-fullscreen.php:78
+msgid "Fullscreen post not selected in customizer"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:59
+msgid "Awaiting product image"
+msgstr ""
